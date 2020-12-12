@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390554290790",
+    "project_id": "leiamos-c08a3",
+    "storage_bucket": "leiamos-c08a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390554290790:android:94ba59efe2d36fa1057ba7",
+        "android_client_info": {
+          "package_name": "com.rodrigofj.leiamos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390554290790-tcobbach3lgpm6fqt6jviqing8rpavvh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3tTvYtGeqr8jlX_zM3J5t7JqH6Z7dnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390554290790-tcobbach3lgpm6fqt6jviqing8rpavvh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
